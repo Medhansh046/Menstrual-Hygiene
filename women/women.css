@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to bottom, #ff33cc 0%, #ff0066 100%);
+}
+
+
+.footerclass{
+    position: fixed;
+    bottom: 0rem;
+    background-color: darkgray;
+    width: 100%;
+    text-align: center;
+    height: fit-content;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+#discussionforum{
+    background: linear-gradient(to bottom, #ff99ff 0%, #ffffff 100%);
+}
+
